@@ -39,16 +39,16 @@ Dependencies
 
 Connections
 -----------
-SX1272 - Raspberry
-
-3.3V   - 3.3V (header pin #1) 
-GND	   - GND (pin #6)
-MISO   - MISO (pin #21)
-MOSI   - MOSI (pin #19)
-SCK    - CLK (pin #23)
-NSS    - GPIO6 (pin #22)
-DIO0   - GPIO7 (pin #7)
-RST    - GPIO0 (in #11)
+| SX1272 | Raspberry | Pin # |
+|--------|------------------:|
+| 3.3V   | 3.3V      |  1    |
+| GND    | GND       |  6    |
+| MISO   | MISO      | 21    |
+| MOSI   | MOSI      | 19    |
+| SCK    | CLK       | 23    |
+| NSS    | GPIO6     | 22    |
+| DIO0   | GPIO7     |  7    |
+| RST    | GPIO0     | 11    |
 
 Configuration
 -------------
